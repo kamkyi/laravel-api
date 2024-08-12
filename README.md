@@ -13,8 +13,8 @@ This repository contains a Laravel API project for managing student information.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/laravel-student-api.git
-cd laravel-student-api
+git clone https://github.com/kamkyi/laravel-api.git
+cd laravel-api
 ```
 ````
 
@@ -51,7 +51,7 @@ This command will start the following containers:
 
 -   `laravel_app`: The PHP application container.
 -   `nginx_webserver`: The Nginx web server container.
--   `mysql`: The MySQL 5.7 database container.
+-   `mysql`: The MySQL 8.0 database container.
 -   `phpmyadmin`: The phpMyAdmin container.
 
 ### Install Composer Dependencies

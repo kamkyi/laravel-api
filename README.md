@@ -16,7 +16,6 @@ This repository contains a Laravel API project for managing student information.
 git clone https://github.com/kamkyi/laravel-api.git
 cd laravel-api
 ```
-````
 
 ### Create Environment File
 
